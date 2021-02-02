@@ -1,0 +1,10 @@
+C:\Users\Zeida\source\repos\SEL\SEL\obj\Debug\SEL.csprojAssemblyReference.cache
+C:\Users\Zeida\source\repos\SEL\SEL\obj\Debug\SEL.csproj.CoreCompileInputs.cache
+C:\Users\Zeida\source\repos\SEL\SEL\bin\Debug\SEL.exe.config
+C:\Users\Zeida\source\repos\SEL\SEL\bin\Debug\SEL.exe
+C:\Users\Zeida\source\repos\SEL\SEL\bin\Debug\SEL.pdb
+C:\Users\Zeida\source\repos\SEL\SEL\obj\Debug\SEL.exe
+C:\Users\Zeida\source\repos\SEL\SEL\obj\Debug\SEL.pdb
+C:\Users\Zeida\source\repos\SEL\SEL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zeida\source\repos\SEL\SEL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zeida\source\repos\SEL\SEL\obj\Debug\SEL.csproj.CopyComplete
